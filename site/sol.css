@@ -1,0 +1,83 @@
+#header-nav
+{ 
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+padding:20px;
+}
+
+.navbar-brand
+{
+	padding-top: 10px;
+
+}
+
+.navbar-brand h1
+{
+  
+ color: #5573ce;
+ font-size: 1.5em;
+ text-transform: uppercase;
+ font-weight: bold;
+ text-shadow: 1px 1px 1px 1px #222;
+ margin: 0px;
+ line-height: .75;
+
+}
+
+.navbar-brand a:hover ,.navbar-brand a:focus
+{
+	text-decoration: none;
+}
+
+#nav-list
+{
+	margin-top: 10px;
+}
+
+#nav-list h1
+{  font-size: 1.2em;
+	text-transform: uppercase;
+	font-style: italic;
+	text-align: center;
+}
+
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar
+{
+	border:20px solid #61122f;
+}
+
+.navbar-header button .navbar-toggle
+{
+	clear: both;
+
+}
+
+#xs-deliver
+	{
+		margin-top: 5px;
+		font-size: 1.8em;
+		letter-spacing: .1em;
+		text-transform: uppercase;
+	}
+
+	#science-tile,#commerce-tile,#arts-tile
+{
+	height:300px;
+	width: 100%;
+	
+	padding: 50px;
+	margin-bottom: 10px;
+	border: 2px solid #3f0c1f;
+	overflow: hidden;
+}
+
+#science-tile h3,#commerce-tile h3,#arts-tile h3
+{
+	font-style: italic;
+	font-size: 1.5em;
+	text-align: center;
+	
+	line-height: 1.5;
+	background-color: #cccccc;
+}
